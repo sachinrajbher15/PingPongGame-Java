@@ -13,3 +13,4 @@ This is a simple GUI based game with the objective to hit the ball with the padd
 Player 1 can control its paddle using W and S keys. Player 2 can control its paddle using UP and DOWN ARROW keys.
 
 ### Screenshot
+![](src/screenshot.JPG)
